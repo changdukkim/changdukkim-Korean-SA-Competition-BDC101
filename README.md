@@ -16,8 +16,8 @@
 	1. kor 폴더로 이동
 	2. `기말고사_KOR_검증코드_model_kor_koelectra_v3_base.ipynb` 파일 오픈  
 	3. 모든 셀 실행을 통해 **1) test set 업로드, 2) 모델 다운로드, 3) 검증, 4) csv 파일 변환 및 다운로드** 가능  
-	3-1.기존 Kaggle 챌린지 테스트 셋 사용 시: 3번 셀 (별도 테스트 셋 업로드 코드)  생략하고 실행   
-	3-2.별도 테스트 셋 사용 시:  
+	3-1. 기존 Kaggle 챌린지 테스트 셋 사용 시: 3번 셀 (별도 테스트 셋 업로드 코드) 생략하고 실행   
+	3-2. 별도 테스트 셋 사용 시:  
 	ㄴ 2번 셀 (기존 Kaggle 챌린지 테스트 셋 다운로드 코드) 생략하고 3번 셀 실행하여 파일 업로드    
 	ㄴ 7번 셀 `test_data = 'ko_data.csv'`코드 수정 (ko_data.csv 대신 테스트 셋 파일명 입력)
 - 학습 코드 실행 방법
@@ -41,8 +41,8 @@
 	1. eng 폴더로 이동
 	2. `기말고사_ENG_검증코드_model_bert_large.ipynb` 파일 오픈  
 	3. 모든 셀 실행을 통해 **1) test set 업로드, 2) 모델 다운로드, 3) 검증, 4) csv 파일 변환 및 다운로드** 가능  
-	3-1.기존 Kaggle 챌린지 테스트 셋 사용 시: 7번 셀 (별도 테스트 셋 업로드 코드)  생략하고 실행   
-	3-2.별도 테스트 셋 사용 시:  
+	3-1. 기존 Kaggle 챌린지 테스트 셋 사용 시: 7번 셀 (별도 테스트 셋 업로드 코드) 생략하고 실행   
+	3-2. 별도 테스트 셋 사용 시:  
 	ㄴ 6번 셀 (기존 Kaggle 챌린지 테스트 셋 다운로드 코드) 생략하고 7번 셀 실행하여 파일 업로드    
 	ㄴ 8번 셀 `test_data = 'en_data.csv'`코드 수정 (en_data.csv 대신 테스트 셋 파일명 입력)
 - 학습 코드 실행 방법
@@ -56,6 +56,6 @@
 [https://github.com/jiwonny/nlp_emotion_classification](https://github.com/jiwonny/nlp_emotion_classification)
 
 ### 3. 다른 모델 및 학습방법
-trials readme로 이동  
+[trials readme](https://github.com/changdukkim/changdukkim-SA-Competition-BDC101/tree/main/trials)로 이동  
 * 참고 문헌 및 코드:  
 Electra Large, KoBERT 참고 코드:  [https://github.com/jiwonny/nlp_emotion_classification](https://github.com/jiwonny/nlp_emotion_classification)  
