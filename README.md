@@ -10,17 +10,16 @@
 검증코드:`kor/기말고사_KOR_검증코드_model_kor_koelectra_v3_base.ipynb`  
 테스트를 용이하게 하기 위해 검증 코드와 학습 코드를 분리하였습니다. 검증코드는 미리 학습 하여 s3에 저장한 모델을 다운로드하여 테스트를 진행하게 됩니다. 
 
-
+- 학습 코드 실행 방법
+	1. kor 폴더로 이동
+	2. `기말고사_KOR_학습코드_model_kor_koelectra_v3_base.ipynb `파일 오픈
+	3. 모든 셀 실행을 통해 **1) 데이터 전처리, 2) 모델 구현 및 학습, 3) 모델 다운로드 가능**	
 
 - 검증 코드 실행 방법
 	1. kor 폴더로 이동
 	2. `기말고사_KOR_검증코드_model_kor_koelectra_v3_base.ipynb` 파일 오픈  
 	3. 모든 셀 실행을 통해 **1) test set 다운로드, 2) 모델 다운로드, 3) 검증, 4) csv 파일 변환 및 다운로드** 가능  
 
-- 학습 코드 실행 방법
-	1. kor 폴더로 이동
-	2. `기말고사_KOR_학습코드_model_kor_koelectra_v3_base.ipynb `파일 오픈
-	3. 모든 셀 실행을 통해 **1) 데이터 전처리, 2) 모델 구현 및 학습, 3) 모델 다운로드 가능**	
 - 데이터 출처  
 [https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
 
@@ -33,16 +32,17 @@
 테스트를 용이하게 하기 위해 검증 코드와 학습 코드를 분리하였습니다. 검증코드는 미리 학습 하여 s3에 저장한 모델을 다운로드하여 테스트를 진행하게 됩니다. 
 
 
-
-* 검증 코드 실행 방법
-	1. eng 폴더로 이동
-	2. `기말고사_ENG_검증코드_model_bert_large.ipynb` 파일 오픈  
-	3. 모든 셀 실행을 통해 **1) test set 다운로드, 2) 모델 다운로드, 3) 검증, 4) csv 파일 변환 및 다운로드** 가능  
-
 - 학습 코드 실행 방법
 	1. eng 폴더로 이동
 	2. `기말고사_ENG_학습코드_model_bert_large.ipynb `파일 오픈
 	3. 모든 셀 실행을 통해 **1) 데이터 전처리, 2) 모델 구현 및 학습, 3) 모델 다운로드 가능**	
+	
+- 검증 코드 실행 방법
+	1. eng 폴더로 이동
+	2. `기말고사_ENG_검증코드_model_bert_large.ipynb` 파일 오픈  
+	3. 모든 셀 실행을 통해 **1) test set 다운로드, 2) 모델 다운로드, 3) 검증, 4) csv 파일 변환 및 다운로드** 가능  
+
+
 - 데이터 출처  
 [http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
 
