@@ -7,12 +7,12 @@
 검증코드:`기말고사_ENG_검증코드_model_eng_electra_large.ipynb`  
 
 - 참고문헌 및 코드  
-[https://github.com/jiwonny/nlp_emotion_classification](https://github.com/jiwonny/nlp_emotion_classification)
+[https://github.com/jiwonny/nlp_emotion_classification/blob/master/friends_electra.ipynb](https://github.com/jiwonny/nlp_emotion_classification/blob/master/friends_electra.ipynb)
 
 ### 2. 한국어 감정 분석 시도 코드 - KoBERT
 코드:`NSMC_KoBERT.ipynb`  
 
 - 참고문헌 및 코드  
-[https://github.com/jiwonny/nlp_emotion_classification](https://github.com/jiwonny/nlp_emotion_classification)  
+[https://github.com/jiwonny/nlp_emotion_classification/blob/master/trials/NSMC_KoBERT.ipynb](https://github.com/jiwonny/nlp_emotion_classification/blob/master/trials/NSMC_KoBERT.ipynb)  
 [https://github.com/SKTBrain/KoBERT
 ](https://github.com/SKTBrain/KoBERT)
