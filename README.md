@@ -53,7 +53,7 @@
 [http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
 
 - 참고문헌 및 코드  
-[https://github.com/jiwonny/nlp_emotion_classification](https://github.com/jiwonny/nlp_emotion_classification)
+[https://github.com/jiwonny/nlp_emotion_classification/blob/master/friends_electra.ipynb](https://github.com/jiwonny/nlp_emotion_classification/blob/master/friends_electra.ipynb)
 
 ### 3. 다른 모델 및 학습방법
 [trials readme](https://github.com/changdukkim/changdukkim-SA-Competition-BDC101/tree/main/trials)로 이동  
